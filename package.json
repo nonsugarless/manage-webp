@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "Genki Sato",
   "bin": {
-    "mwebp": "./bin/index.js"
+    "mwebp": "bin/index.js"
   },
   "bugs": {
     "url": "https://github.com/nonsugarless/manage-webp"
@@ -49,7 +49,7 @@
     ]
   },
   "license": "MIT",
-  "main": "./bin/index.js",
+  "main": "bin/index.js",
   "private": true,
   "repository": {
     "type": "git",
@@ -63,7 +63,7 @@
     "dev": "tsc -w",
     "test": "jest"
   },
-  "types": "./bin/index.d.ts",
+  "types": "bin/index.d.ts",
   "description": "\"@nonsugarless/manage-webp\" is an extension of [webp-converter](https://www.npmjs.com/package/webp-converter) that allows you manage WebP Images more easily.",
   "homepage": "https://github.com/nonsugarless/manage-webp#readme",
   "keywords": [
