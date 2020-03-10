@@ -1,0 +1,9 @@
+.DS_Store
+yarn-debug.log*
+yarn-error.log*
+node_modules
+yarn.lock*
+package-lock.json*
+.managewebprc
+htdocs
+dest
