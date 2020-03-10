@@ -1,6 +1,6 @@
 {
   "name": "@nonsugarless/manage-webp",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Genki Sato",
   "bin": {
     "mwebp": "bin/index.js"
@@ -50,7 +50,7 @@
   },
   "license": "MIT",
   "main": "bin/index.js",
-  "private": true,
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nonsugarless/manage-webp.git"
