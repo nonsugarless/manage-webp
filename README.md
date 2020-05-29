@@ -1,5 +1,5 @@
 # Features
-You can not only convert images to WebP Images manually but also convert images and delete unnecessary WebP Images automatically.
+You can convert images to WebP Images and delete unnecessary WebP Images automatically.
 
 # Installation
 ```bash
