@@ -1,6 +1,3 @@
-# @nonsugarless/manage-webp
-"@nonsugarless/manage-webp" is a wrapper of [webp-converter](https://www.npmjs.com/package/webp-converter) that allows you manage WebP Images more easily.
-
 # Features
 You can not only convert images to WebP Images manually but also convert images and delete unnecessary WebP Images automatically.
 
