@@ -1,6 +1,6 @@
 {
   "name": "@nonsugarless/manage-webp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Genki Sato",
   "bin": {
     "mwebp": "bin/index.js"
