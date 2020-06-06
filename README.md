@@ -1,3 +1,7 @@
+# DEPRECATED
+This package was moved to [@nonsugarless/webp-converter](https://github.com/nonsugarless/webp-converter) and will be no maintained.<br>
+You can use the new one in the same way.
+
 # Features
 You can convert images to WebP Images and delete unnecessary WebP Images automatically.
 
